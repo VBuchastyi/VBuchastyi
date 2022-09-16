@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @VBuchastyi
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Python more deep
-- 💞️ I’m looking to collaborate on new interesting project
+- 🌱 I’m currently learning Python more deeply
 - 📫 How to reach me buchasty@gmail.com
 
 <!---
